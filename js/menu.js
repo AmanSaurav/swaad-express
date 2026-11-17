@@ -7,7 +7,7 @@ const MENU = [
   { id: 2,  category: "Thali",    name: "Maharaja Thali",        emoji: "🍽️", price: "₹349", veg: true },
   { id: 3,  category: "Thali",    name: "Kadhai Paneer Thali",   emoji: "🍛", price: "₹279", veg: true },
   { id: 4,  category: "Biryani",  name: "Chicken Biryani",       emoji: "🍚", price: "₹329", veg: false },
-  { id: 5,  category: "Biryani",  name: ,"Veg Dum Biryani",       emoji: "🍚", price: "₹279", veg: true },
+  { id: 5,  category: "Biryani",  name: "Veg Dum Biryani",       emoji: "🍚", price: "₹279", veg: true },
   { id: 6,  category: "Biryani",  name: "Mutton Biryani",        emoji: "🍖", price: "₹429", veg: false },
   { id: 7,  category: "Snacks",   name: "Poha Jalebi Combo",     emoji: "🥣", price: "₹99" , veg: true },
   { id: 8,  category: "Snacks",   name: "Samosa (2 pcs)",        emoji: "🥟", price: "₹60" , veg: true },
